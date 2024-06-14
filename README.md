@@ -23,7 +23,7 @@ POSTMAN is software platform which is useful for builing, testing, and collabora
 
 * Application Architecture :
 
-![App Screenshot](https://drive.google.com/file/d/1RbRCIy3p-Id2gojXqCcWf25JTayXnKYb/view?usp=sharing)
+![Demo Image](demo/node_arch.png)
 
 * Let's discuss about various layers of our Application :
 1) Client : This layer is front-end or user layer through which user will request some resource. e.g Browser a user can request some website or content through browser which can be act as client layer.
