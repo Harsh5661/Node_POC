@@ -126,8 +126,15 @@ And you are ready with using JSON data to perform test the APIs on POSTMAN with 
 
 Note: all the api path are same for mysql and json data.
 ## Screenshots
-
-
+1. GET Method// GET By id
+   ![Demo Image](demo/get_method.png)
+   ![Demo Image](demo/get_by_id.png)
+2. POST Method
+   ![Demo Image](demo/post_method.png)
+3. PUT Method
+   ![Demo Image](demo/post_method.png)
+4. DELETE Method
+   ![Demo Image](demo/delete_method.png)
 
 ## Contributing
 
